@@ -17,4 +17,8 @@ Para usar esta librería, importa el archivo `complex_numbers.py` en tu proyecto
 import complex_numbers as cn
 ```
 ## comando
-comando ejecutar pruebas python -m unittest test_complex_numbers.py
+
+comando ejecutar pruebas 
+```python
+-m unittest test_complex_numbers.py
+```
