@@ -1,0 +1,16 @@
+
+### 5. Archivo `.gitignore`
+
+```plaintext
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+env/
+venv/
+idea/
+
+# VS Code
+.vscode/
